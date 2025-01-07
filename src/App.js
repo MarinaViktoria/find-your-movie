@@ -16,7 +16,7 @@ import { MovieDetails } from "./MovieDetails";
 import { useMovies } from "./useMovies";
 import { useLocalStorageState } from "./useLocalStorageState";
 
-const key = "d2350dc3";
+//const key = "d2350dc3";
 
 export default function App() {
   const [query, setQuery] = useState("");
